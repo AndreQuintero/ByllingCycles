@@ -1,0 +1,55 @@
+.main-header{
+    background-color: deepskyblue;
+    margin-top: -10px;
+}
+
+.main-sidebar{
+    
+    background-color: #363636;
+}
+
+.fa-dashboard{
+    
+   color: white;
+       
+}
+
+.main-footer{
+    position:fixed;
+    bottom: 0px;
+    width:100%;
+    background-color: darkgrey;
+}
+
+.labelMenu{
+ 
+    color: white;
+}
+
+/*.labelMenu:hover {
+    
+       
+        background-color: #544F4F;
+}*/
+
+button{
+
+    margin-left: 5px
+}
+
+.table-actions{
+
+    width: 150px;
+}
+.navbar-nav{
+
+    margin-top: -40px;
+}
+
+.user-header{
+background-color: black;
+}
+
+.hidden-xs{
+    color: black;
+}
